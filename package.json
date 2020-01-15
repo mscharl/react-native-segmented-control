@@ -4,11 +4,6 @@
   "description": "React Native SegmentedControlIOS library",
   "main": "js/index.js",
   "types": "index.d.ts",
-  "files": [
-    "index.d.ts",
-    "ios",
-    "js"
-  ],
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "yarn flow && yarn lint",
